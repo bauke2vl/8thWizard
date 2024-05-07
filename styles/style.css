@@ -6,7 +6,7 @@
 /* bron animatie= https://youtu.be/HZHHBwzmJLk?si=e9BaZJNVnAqgi8uu*/
 .ball8{
     position: absolute;
-    top: 12.2%;
+    top: 10%;
     left: -0.05%;
     transform: translate(-10%, -50%);
     animation: ball8 4s;
